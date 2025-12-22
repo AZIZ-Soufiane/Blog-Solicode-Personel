@@ -16,3 +16,9 @@ Mr. ESSARRAJ FOUAD
 
 ## labs:
 - AJAX
+
+## Compte Rendu
+### Youssef
+- search in the navbar for the articles page
+- sidebar filterand search
+- signup with google only no need for github connect
