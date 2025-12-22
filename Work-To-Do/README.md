@@ -2,12 +2,7 @@
 
 ## Travail à faire
 
-- Consulter le Dashboard Auteur
-- Voir le nombre de ses articles
-- Voir le total des vues de ses articles
-- Consulter son activité récente
-- Accéder à la liste de ses articles
-- Créer un nouvel article
+- Dashboard Auteur
 
 
 ## Réalisé par
