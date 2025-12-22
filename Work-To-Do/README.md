@@ -19,3 +19,5 @@ Mr. ESSARRAJ FOUAD
 ## Livrable Sprint 2: 
 ### Dashboard Auteur
 
+## labs:
+- AJAX
