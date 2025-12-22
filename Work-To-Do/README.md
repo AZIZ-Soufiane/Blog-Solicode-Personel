@@ -2,7 +2,12 @@
 
 ## Travail à faire
 
-Développer un Dashboard Auteur complet permettant aux auteurs de gérer et suivre leurs articles. Le dashboard doit offrir une vue d'ensemble avec le nombre total d'articles publiés, les statistiques de visualisation agrégées, et l'historique d'activité récente. Les auteurs doivent pouvoir accéder à la liste complète de leurs articles pour les consulter et les gérer, ainsi que créer de nouveaux articles directement depuis l'interface.
+- Consulter le Dashboard Auteur
+- Voir le nombre de ses articles
+- Voir le total des vues de ses articles
+- Consulter son activité récente
+- Accéder à la liste de ses articles
+- Créer un nouvel article
 
 
 ## Réalisé par
