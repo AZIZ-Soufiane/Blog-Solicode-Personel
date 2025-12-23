@@ -6,8 +6,8 @@ actor "Auteur" as Author
 package "Dashboard Auteur" {
 
   usecase "Consulter le Dashboard Auteur" as UC_Dashboard
-  usecase "Gérer les Articles (CRUD)" as UC_CRUD
 }
 
   Author --> UC_Dashboard
-  Author --> UC_CRUD
+  
+@enduml
