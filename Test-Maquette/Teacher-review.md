@@ -1,4 +1,4 @@
 ## Youssef Yazidi
 - search in the navbar for the articles page
-- sidebar filterand search
+- sidebar filter and search
 - signup with google only no need for github connect
