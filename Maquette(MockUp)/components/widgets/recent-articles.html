@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Component: Recent Articles Widget</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700&display=swap"
+        rel="stylesheet">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        heading: ['Outfit', 'sans-serif'],
+                    },
+                    colors: {
+                        primary: { 600: '#2563eb', 700: '#1d4ed8' }
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="bg-gray-50 p-10">
+
+    <!-- Activity List -->
+    <div class="flex flex-col bg-white border border-gray-200 shadow-sm rounded-xl h-full">
+        <div class="p-4 md:p-5">
+            <h3 class="text-lg font-bold text-gray-800 mb-4">Votre Activité</h3>
+            <div class="flex gap-x-3 mb-4">
+                <div
+                    class="relative last:after:hidden after:absolute after:top-7 after:bottom-0 after:start-3.5 after:w-px after:-translate-x-[0.5px] after:bg-gray-200">
+                    <div class="relative z-10 w-7 h-7 flex justify-center items-center">
+                        <div class="w-2 h-2 rounded-full bg-blue-400"></div>
+                    </div>
+                </div>
+                <div class="grow pt-0.5 pb-8">
+                    <h3 class="flex gap-x-1.5 font-semibold text-gray-800"><i data-lucide="edit-3"
+                            class="w-4 h-4 text-blue-600 mt-1"></i> Brouillon sauvegardé
+                    </h3>
+                    <p class="mt-1 text-sm text-gray-600">Vous avez modifié "Les secrets de
+                        CSS Grid".</p>
+                    <span class="text-xs text-gray-500">Il y a 15 min</span>
+                </div>
+            </div>
+            <div class="flex gap-x-3">
+                <div class="relative last:after:hidden">
+                    <div class="relative z-10 w-7 h-7 flex justify-center items-center">
+                        <div class="w-2 h-2 rounded-full bg-green-400"></div>
+                    </div>
+                </div>
+                <div class="grow pt-0.5 pb-0">
+                    <h3 class="flex gap-x-1.5 font-semibold text-gray-800"><i data-lucide="check-circle"
+                            class="w-4 h-4 text-green-600 mt-1"></i> Article validé
+                    </h3>
+                    <p class="mt-1 text-sm text-gray-600">Votre article "Intro à Tailwind" a
+                        été publié par l'admin.</p>
+                    <span class="text-xs text-gray-500">Hier</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Card -->
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+
+</html>
