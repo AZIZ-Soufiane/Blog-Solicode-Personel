@@ -108,14 +108,14 @@ Après la mise en place du front-office lors du Sprint 1, le **Sprint 2** se con
 
 ---
 
-# Diagramme de classe
-![h:500 diagram class](images/diagram_class.png)
-
----
-
 # Validation de maquettes
 
 ## Youssef Yazidi
+
+---
+
+# Diagramme de classe
+![h:500 diagram class](images/diagram_class.png)
 
 ---
 
