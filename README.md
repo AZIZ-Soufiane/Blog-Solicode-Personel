@@ -95,7 +95,6 @@ Après la mise en place du front-office lors du Sprint 1, le **Sprint 2** se con
 ---
 
 
-
 # Labs réalisés
 
 ### Lab 1 : Ajax
@@ -105,17 +104,16 @@ Après la mise en place du front-office lors du Sprint 1, le **Sprint 2** se con
 # Maquette dashboard (Auteur)
 ![Dashboard Auteur](images/maquette.png)
 
-
----
-
-# Diagramme de classe
-![h:500 diagram class](images/diagram_class.png)
-
 ---
 
 # Validation de maquettes
 
 ## Youssef Yazidi
+
+---
+
+# Diagramme de classe
+![h:500 diagram class](images/diagram_class.png)
 
 ---
 
