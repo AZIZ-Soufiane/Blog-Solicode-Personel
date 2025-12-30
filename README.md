@@ -47,7 +47,6 @@ style: |
 
 
 
-
 # **Projet Blog Solicode**
 ### **Sprint 2 – Dashboard Auteur & MVP**
 
