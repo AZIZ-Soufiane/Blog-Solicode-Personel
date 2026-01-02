@@ -48,7 +48,7 @@ style: |
 
 
 # **Projet Blog Solicode**
-### **Sprint 2 – Dashboard Auteur & MVP**
+### **Sprint 2 – Dashboard Auteur**
 
 **Réalisé par :** AZIZ Soufiane
 **Encadré par :** M. ESSARRAJ Fouad
