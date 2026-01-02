@@ -55,9 +55,9 @@ style: |
 
 ---
 
-# Introduction & Contexte
+# Introduction
 
-Après la mise en place du front-office lors du Sprint 1, le **Sprint 2** se concentre sur :
+Après la mise en place du front-office lors du Sprint 1, ma tâche au **Sprint 2** se concentre sur :
 
 - Mise en place du **Dashboard Auteur**
 - Visualisation des statistiques
